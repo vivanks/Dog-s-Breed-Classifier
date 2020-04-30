@@ -18,7 +18,7 @@ This notebook runs on PyTorch, it is expected that you already have this install
 1. Clone the repository and navigate to the downloaded folder.
 	
 	```	
-		git clone https://github.com/lopezyouhei/Dog-Breed-Classifier.git
+		https://github.com/vivanks/Dog-s-Breed-Classifier.git
 		cd Dog-Breed-Classifier
 	```
 
